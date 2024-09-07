@@ -1,0 +1,10 @@
+
+Ž
+java:S1128
+"lRemove this unused import 'org.springframework.security.authentication.UsernamePasswordAuthenticationToken'.(ÖÆ„Ùüÿÿÿÿ8¢Äðìœ2
+j
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñýÓ“8¢Äðìœ2
+K
+java:S1068".Remove this unused "jwtService" private field.(ïþº¯8Ðž¢çœ2
+[
+java:S1068"9Remove this unused "authenticationManager" private field.(™º¶ùúÿÿÿÿ8÷§³çœ2

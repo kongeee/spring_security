@@ -1,0 +1,26 @@
+
+m	java:S116"QRename this field "SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ş‰½8–„âãœ2
+S
+java:S1874"1Remove this use of "setClaims"; it is deprecated.(æõíûúÿÿÿÿ8š¦çãœ2
+T
+java:S1874"2Remove this use of "setSubject"; it is deprecated.(¥¥ıÿÿÿÿ8›¦çãœ2
+U
+java:S1874"3Remove this use of "setIssuedAt"; it is deprecated.(Ô£µïûÿÿÿÿ8›¦çãœ2
+R
+java:S1874"5Remove this use of "setExpiration"; it is deprecated.(¹…8›¦çãœ2
+L
+java:S1874 "0Remove this use of "signWith"; it is deprecated.(ñ¥S8›„âãœ2
+V
+java:S1874 ":Remove this use of "SignatureAlgorithm"; it is deprecated.(ñ¥S8›„âãœ2
+V
+java:S1874 ":Remove this use of "SignatureAlgorithm"; it is deprecated.(ñ¥S8œ¦çãœ2
+R
+java:S1874/"5Remove this use of "setSigningKey"; it is deprecated.(Ô™ğ‡8 „âãœ2
+X
+java:S18741"6Remove this use of "parseClaimsJws"; it is deprecated.(ëÙ–ºıÿÿÿÿ8 „âãœ2
+R
+java:S18749"5Remove this use of "setSigningKey"; it is deprecated.(Ô™ğ‡8¡„âãœ2
+X
+java:S1874;"6Remove this use of "parseClaimsJws"; it is deprecated.(ëÙ–ºıÿÿÿÿ8¡„âãœ2
+J
+java:S1128"-Remove this unused import 'java.util.Base64'.(ëŠ»Õ8 ¦çãœ2

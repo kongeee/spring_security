@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql
+    restart: always
+    container_name: ekici-mysql-db
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: jwt-test-db
+      MYSQL_USER: ekici
+      MYSQL_PASSWORD: ekici_pwd
+    ports:
+      - '3307:3306'
